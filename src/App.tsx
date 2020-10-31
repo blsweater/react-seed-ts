@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          react-seed-ts
+          react-seed-ts edited
         </a>
       </header>
     </div>
